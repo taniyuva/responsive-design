@@ -8,7 +8,7 @@
 --midnight-violet: #3b1f2bff;
 }
 
-html {
+body {
 background-color: var(--ocean-blue);
 }
 h1 {
