@@ -1,2 +1,15 @@
 /* styles.css */
+:root {
+/* CSS HEX */
+--ocean-blue: #2e86abff;
+--berry-blush: #a23b72ff;
+--carrot-orange: #f18f01ff;
+--red-ochre: #c73e1dff;
+--midnight-violet: #3b1f2bff;
+}
 
+html {
+background-color: var(--ocean-blue);
+}
+h1 {
+  color: var(midnight-violet);
