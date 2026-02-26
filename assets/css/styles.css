@@ -1,7 +1,7 @@
 /* styles.css */
 :root {
 /* CSS HEX */
---ocean-blue: #2e86abff;
+--beige: rgb(255, 229, 151);
 --berry-blush: #a23b72ff;
 --carrot-orange: #f18f01ff;
 --red-ochre: #c73e1dff;
@@ -9,8 +9,16 @@
 }
 
 body {
-background-color: var(--ocean-blue);
+background-color: var(--beige);
 }
 h1 {
   color: var(midnight-violet);
+}
+
+.col{
+  border: 1px solid red
+}
+
+div.top{
+  margin-bottom: 50px;
 }
